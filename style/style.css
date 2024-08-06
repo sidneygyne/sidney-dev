@@ -193,6 +193,8 @@ form button {
     width: 100%;
     margin-bottom: 8px;
     padding: 8px;
+    border: 1px solid var(--cor-primaria);
+    border-radius: 10px;
 }
 
 form textarea {
@@ -365,7 +367,6 @@ footer p {
     form textarea,
     form button {
         width: 100%;
-
     }
 
     .preprojects li {
